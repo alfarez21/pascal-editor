@@ -57,5 +57,11 @@
     "apps/*",
     "packages/*",
     "tooling/*"
-  ]
+  ],
+  "dependencies": {
+    "@pascal-app/core": "^1.0.0-beta.3",
+    "@pascal-app/editor": "^1.0.0-beta.3",
+    "@pascal-app/nodes": "^1.0.0-beta.3",
+    "@pascal-app/viewer": "^1.0.0-beta.3"
+  }
 }
